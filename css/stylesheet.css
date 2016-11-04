@@ -3,19 +3,17 @@ h1 {
   color: #36648b;
   text-align:left;
 }
-#left{
-	width: 15%;
-	float: left;
+#header{
+	height: 50px;
+	margin-bottom: 10px;
 }
 
 
-#right{
+#tag{
 	position: fixed;
 	top:10px;
-	left:50%;
 	margin-left:-254px;
 	width: 45%;
-	float: right;
 }
 
 ul{
