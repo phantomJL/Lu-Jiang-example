@@ -3,13 +3,15 @@ h1 {
   color: #36648b;
   text-align:left;
 }
+#left{
+	width: 15%;
+	float: left;
+}
 
-#header {
-	position: relative;
-	top: -10px;
-	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
+
+#right{
+	width: 75%;
+	float: right;
 }
 
 ul{
