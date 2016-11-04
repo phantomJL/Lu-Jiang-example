@@ -7,12 +7,12 @@ html {
 }
 
 
-
 h1 {
   font-family: Verdana;
   color: #36648b;
-  text-align:left;
 }
+
+
 #header{
 	float:left;
 	height: 50px;
