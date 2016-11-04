@@ -10,16 +10,8 @@ h1 {
 
 
 #tag{
-	position: fixed;
 	top:10px;
-	left:50%;
-	margin-left:-254px;
-}
-
-ul{
-	list-style-type: none;
-	position: fixed;
-	margin: -10px;
+	margin-bottom: 10px;
 }
 
 li {
