@@ -1,5 +1,5 @@
 html {
-	background: url(https://image.freepik.com/free-vector/modern-abstract-background_1048-1003.jpg) no-repeat center center fixed;
+	background: url('img/508795172.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size:cover;
@@ -11,9 +11,10 @@ html {
 h1 {
   font-family: Verdana;
   color: #36648b;
-  text-align:center;
+  text-align:left;
 }
 #header{
+	float: left;
 	height: 50px;
 	margin-bottom: 10px;
 	text-align:center;
@@ -21,6 +22,7 @@ h1 {
 
 
 #tag{
+	float: right;
 	top:20px;
 	margin-bottom: 10px;
    	margin-right: -50%; 
