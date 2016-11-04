@@ -19,14 +19,15 @@ h1 {
 	margin-bottom: 10px;
 }
 
+#header ul{
+	margin:0;
+	padding:0;
+	list-style-type: none;}
 
-#tag{
-	float:right;
-	height: 50px;
-	margin-bottom: 10px;
-}
+#header ul li{display: inline;}
 
-li a {
+#header ul li a {
+	text-decoration: none;
 	margin-left: 2px
 	font-family: Futura, Tahoma, sans-serif;
 	font-size: 12px;
@@ -35,3 +36,11 @@ li a {
 	word-wrap: break-word;
 	color: #000000;
 }
+
+#tag{
+	float:right;
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+
