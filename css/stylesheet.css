@@ -27,7 +27,12 @@ h1 {
 }
 
 li a {
-	display: inline;
+	float: left;
+	margin-left: 2px
 	font-family: Futura, Tahoma, sans-serif;
+	color: #fff;
+	font-size: 12px;
 	padding: 5px;
+	text-align: justify;
+	word-wrap: break-word;
 }
