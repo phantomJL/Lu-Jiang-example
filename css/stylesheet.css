@@ -1,5 +1,29 @@
 h1 {
-  font-family: Arial;
+  font-family: Verdana;
   color: #36648b;
   text-align:left;
+}
+
+#header {
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #cc0323
 }
