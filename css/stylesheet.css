@@ -1,3 +1,9 @@
+body {
+	background-image: url(img/508795172.jpg);
+	background-size: cover;
+}
+
+
 h1 {
   font-family: Verdana;
   color: #36648b;
