@@ -17,7 +17,7 @@ h1 {
    	margin-right: auto 
 }
 
-li {
+li a {
 	display: inline;
 	font-family: Futura, Tahoma, sans-serif;
 	color: #36648b;
