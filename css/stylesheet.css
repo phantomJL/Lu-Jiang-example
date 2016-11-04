@@ -10,6 +10,10 @@ h1 {
 
 
 #right{
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
 	width: 65%;
 	float: right;
 }
