@@ -49,6 +49,7 @@ a{
 	
 	width: 70%;
 	float: left;
+	height:100px;
 }
 
 .left img{
@@ -57,9 +58,10 @@ a{
 
 
 .right{
-	width:21%;
+	width:22%;
 	float:left;
 	background-color: #fff0f5;
 	padding: 2% 3%;
+	height: 100px;
 }
 
