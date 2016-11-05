@@ -45,6 +45,10 @@ a{
 	color: #EE82EE
 }
 
+.center {
+	width: 100%;
+	overflow: auto;
+}
 
 .left{
 	float:left;
