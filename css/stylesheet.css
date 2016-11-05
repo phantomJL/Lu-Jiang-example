@@ -30,7 +30,7 @@ a{
 }
 
 .header nav ul li{
-	color:#FFFFFF;
+	
 	list-style-type: none;
 	float: left;
 	display: inline;
@@ -44,7 +44,7 @@ a{
 	margin-left: 2px;
 	padding: 0 25px;
 	height: 20px;
-	color: #000000;
+	color:#FFFFFF;
 }
 .header nav a:hover{
 	color: #EE82EE
