@@ -43,6 +43,15 @@ a: hover, a:active{}
 	display: inline;
 }
 
+.header nav a:link, .header nav a:visited {
+	margin-left: 2px
+	padding: 10px 25px;
+	color: #000000;
+	height: 20px;
+}
+.header nav a:hover{
+	color: #EE82EE
+}
 /*
 h1 {
   font-family: Verdana;
