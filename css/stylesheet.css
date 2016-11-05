@@ -14,9 +14,9 @@ a{
 	width: 80%;
 	clear: both;
 }
+
 .body h1{
 	text-align: center;
-
 }
 
 .header nav{
@@ -27,9 +27,10 @@ a{
 
 
 .header nav ul{
+	/*margin: 0 auto;*/
 	text-align:center;
 	width:100%;	
-	margin: 0 auto;
+	
 }
 
 .header nav ul li{
