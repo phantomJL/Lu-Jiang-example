@@ -47,14 +47,12 @@ a{
 
 .left{
 	
-	width: 50%;
+	width: 70%;
 	float: left;
-	height: 100px;
 }
 
 .left img{
 	height: auto;
-	width: 70%;
 }
 
 
