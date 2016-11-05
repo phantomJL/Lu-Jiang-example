@@ -1,4 +1,4 @@
-body{
+;body{
 	font-size: 100%;
 	font-family: Arial;
 	line-height: 2;
@@ -15,23 +15,26 @@ a{
 }
 
 .header nav{
-	width:70%;
+	width:100%;
 	height: 40px;
 }
 
 .header nav ul{
-	list-style: none;
+	
 	margin: 0 auto;
 	
 }
 
 .header nav ul li{
+	list-style: none;
 	float: left;
 	display: inline;
+	font-weight:bold;
+	padding: 10px;
 }
 
 .header nav a:link, .header nav a:visited {
-	margin-left: 2px
+	margin-left: 2px;
 	padding: 10px 25px;
 	height: 20px;
 	color: #000000;
