@@ -19,14 +19,15 @@ a: hover, a:active{}
 	clear: both;
 }
 .header h1{
-	float: left;
 	width:30%;
+	float: left;
 	height: 40px;
 	margin: 2% 0;
 }
 
 .header nav{
-	float:right;
+	width:70%;
+	float:left;
 	height: 40px;
 }
 
@@ -49,6 +50,27 @@ a: hover, a:active{}
 }
 .header nav a:hover{
 	color: #EE82EE
+}
+
+.personalimg{
+	
+	width: 50%;
+	float: left;
+	
+}
+.personalimg img{
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size:cover;
+	background-size: cover;
+}
+
+
+.right{
+	width:50%;
+	float:left;
+	background-color: #fff0f5;
+	padding: 2% 3%;
 }
 /*
 h1 {
