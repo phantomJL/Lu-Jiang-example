@@ -4,29 +4,26 @@ h1 {
 }
 
 
-#header{
+#header h1{
 	float:left;
 	height: 50px;
 	margin-bottom: 10px;
 }
 
-#tag{
+#header ul{
 	float:right;
 	height: 50px;
 	margin-bottom: 10px;
-}
-
-#tag ul{
 	margin:0;
 	padding:0;
 	list-style-type: none;
 }
 
-#tag ul li{
+#header ul li{
 	display: inline;
 }
 
-#tag ul li a {
+#header ul li a {
 	text-decoration: none;
 	margin-left: 2px
 	font-family: Futura, Tahoma, sans-serif;
@@ -37,7 +34,7 @@ h1 {
 	color: #000000;
 }
 
-#tag ul li a:hover{
+#header ul li a:hover{
 	color: #EE82EE
 }
 
