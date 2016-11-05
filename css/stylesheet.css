@@ -44,7 +44,7 @@ h1 {
 
 #left {
 	float:left;
-	width: 45%;
+
 	background: url('../img/508795172.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -54,7 +54,7 @@ h1 {
 
 #right {
 	float:right;
-	width: 45%
+
 	background-color: #fff0f5;	 
 }
 
