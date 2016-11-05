@@ -9,10 +9,6 @@ a{
 	text-decoration: none;
 }
 
-a: link, a: visted{}
-
-a: hover, a:active{}
-
 .body{
 	margin: 0 auto;
 	width: 80%;
