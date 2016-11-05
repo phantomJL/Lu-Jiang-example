@@ -5,6 +5,32 @@ body{
 	text-align: left;
 }
 
+a{
+	text-decoration: none;
+}
+
+a: link, a: visted{}
+
+a: hover, a:active{}
+
+.body{
+	margin: 0 auto;
+	width: 80%;
+	clear: both;
+}
+.header h1{
+	float: left;
+	width:30%;
+	height: 40px;
+	margin: 2% 0;
+}
+
+.header nav{
+	float: right;
+	height: 40px;
+	
+}
+
 /*
 h1 {
   font-family: Verdana;
