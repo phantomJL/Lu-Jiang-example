@@ -26,12 +26,14 @@ a: hover, a:active{}
 }
 
 .header nav{
+	float:right;
 	height: 40px;
-	
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	
 }
 
 .header nav ul{
-	float:right;
 	margin:0 auto;
 	list-style-type: none;
 }
