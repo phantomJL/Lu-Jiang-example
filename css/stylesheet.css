@@ -14,11 +14,6 @@ a{
 	width: 80%;
 	clear: both;
 }
-.header h1{
-	width:30%;
-	float: left;
-	height: 40px;
-}
 
 .header nav{
 	width:70%;
@@ -31,7 +26,6 @@ a{
 }
 
 .header nav ul li{
-	float: left;
 	display: inline;
 	margin-left: 2px;
 	font-size: 100%
