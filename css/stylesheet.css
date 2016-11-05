@@ -33,7 +33,8 @@ a{
 .header nav ul li{
 	float: left;
 	display: inline;
-	margin-left: 2px
+	margin-left: 2px;
+	font-size: 100%
 }
 
 .header nav a:link, .header nav a:visited {
