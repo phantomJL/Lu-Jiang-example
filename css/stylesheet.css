@@ -52,13 +52,13 @@ a: hover, a:active{}
 	color: #EE82EE
 }
 
-.personalimg{
+.left{
 	
 	width: 50%;
 	float: left;
 	
 }
-.personalimg img{
+.left img{
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size:cover;
@@ -72,6 +72,8 @@ a: hover, a:active{}
 	background-color: #fff0f5;
 	padding: 2% 3%;
 }
+
+
 /*
 h1 {
   font-family: Verdana;
