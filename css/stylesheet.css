@@ -28,9 +28,6 @@ a: hover, a:active{}
 .header nav{
 	float:right;
 	height: 40px;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;	
 }
 
 .header nav ul{
@@ -41,6 +38,7 @@ a: hover, a:active{}
 .header nav ul li{
 	float: left;
 	display: inline;
+	margin-left: 2px
 }
 
 .header nav a:link, .header nav a:visited {
