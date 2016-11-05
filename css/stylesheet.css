@@ -23,14 +23,13 @@ a{
 
 
 .header nav ul{
-	display: inline-block;
-	list-style-type:none;
+	text-align:center;
 	width:100%;
 	margin: 0 auto;
 }
 
 .header nav ul li{
-	list-style: none;
+	list-style-type: none;
 	float: left;
 	display: inline;
 	font-weight:bold;
