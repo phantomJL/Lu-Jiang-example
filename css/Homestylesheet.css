@@ -12,7 +12,7 @@ a{
 
 .body{
 	position: relative;
-	margin: 20% auto;
+	margin: 10% auto;
 	width: 80%;
 	clear: both;
 }
@@ -80,7 +80,7 @@ a{
 	background-color:#fff0f5;
 	width: 100%;
 	overflow: auto;
-	margin-top: 30%;
+	margin-top: 5%;
 }
 
 .left{
