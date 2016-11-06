@@ -4,13 +4,15 @@ body{
 	font-family: Arial;
 	line-height: 1.5;
 	text-align: left;
+	background-color:#fff0f5;
 .}
 
 a{
 	text-decoration: none;}
 
 .body{
-	margin: 0 auto;
+	position: relative;
+	margin: 20% auto;
 	width: 80%;
 	clear: both;
 }
@@ -39,7 +41,7 @@ a{
 	left:50%;
 	margin-left:-275px;
     position:relative;
-     
+    margin-bottom: 10%;
 }
 
 .nav{
@@ -78,6 +80,7 @@ a{
 	background-color:#fff0f5;
 	width: 100%;
 	overflow: auto;
+	margin-top: 30%;
 }
 
 .left{
